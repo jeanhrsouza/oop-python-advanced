@@ -2,9 +2,9 @@
 
 
 # :mag: Índice
-- [Sobre](#-:clipboard:-Sobre)
-- [Tecnologia](#-:rocket:-Tecnologia)
-- [Como baixar o projeto](#-:scroll:-Como-baixar-o-projeto)
+- [Sobre](#-Sobre)
+- [Tecnologia](#-Tecnologias)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
 
 ---
