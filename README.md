@@ -2,15 +2,15 @@
 
 
 # :mag: Índice
-- [Sobre](#-Sobre)
-- [Tecnologia](#-Tecnologia)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Sobre](#-:clipboard:-Sobre)
+- [Tecnologia](#-:rocket:-Tecnologia)
+- [Como baixar o projeto](#-:scroll:-Como-baixar-o-projeto)
 
 
 ---
 ## :clipboard: Sobre
 
-O projeto **oop-python-advanced** foi criado dentro do curso **<a href="https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos"> Python 3: Avançando na orientação a objetos <\a> com o intuito de colocar em prática todo o conteúdo estudado durante o curso.
+O projeto **oop-python-advanced** foi criado dentro do curso **"<a href="https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos">Python 3: Avançando na orientação a objetos</a>"** com o intuito de colocar em prática todo o conteúdo estudado durante o curso.
 
 
 ---
@@ -29,7 +29,6 @@ O projeto foi desenvolvido utilizando a seguinte tecnologia
   
   # Entrar no repositório
   $ cd oop-python-advanced
- 
 ````
 
 

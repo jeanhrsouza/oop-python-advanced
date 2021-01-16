@@ -44,3 +44,5 @@ class Senior(Alura, Caelum, Hipster):
 luan = Senior('Luan')
 print(luan)
 print('--------')
+
+
